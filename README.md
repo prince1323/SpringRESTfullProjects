@@ -49,9 +49,6 @@ src/main/java
 
 1⃣ Clone the repo
 
-  git clone https://github.com/yourusername/BankingAPI_Beta01.git
-  cd BankingAPI_Beta01
-
 2⃣ Configure your MySQL
 
   Update your application.properties (or application.yml) to set database URL, username, and password.
